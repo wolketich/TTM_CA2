@@ -13,12 +13,10 @@ This repository is dedicated to facilitating collaborative work on Continuous As
 
 ## Timelines
 
-| Date       | Milestone                               | Description                               |
-|------------|-----------------------------------------|-------------------------------------------|
-| 2nd of October 2023 | Initial Project Setup                   | Setting up the repository and tools.      |
-| 22nd of October 2023 | First Checkpoint                      | Discussing project objectives and roles.  |
-| 28th of November 2023 | Second Checkpoint                        | Submitting the first draft of the project.|
-| 28th of November 2023 | Final Presentation                             | Reviewing and providing feedback.         |
-| YYYY-MM-DD | Final Submission                        | Submitting the finalized project.         |
-
+| Date                  | Milestone            | Description                               |
+|-----------------------|----------------------|-------------------------------------------|
+| 2nd of October 2023   | Initial Project Setup| Repository & tool configuration.          |
+| 22nd of October 2023  | First Checkpoint     | Review of objectives & role assignments.  |
+| 28th of November 2023 | Second Checkpoint    | Draft submission for feedback.            |
+| 28th of November 2023 | Final Presentation   | Showcase & feedback session.              |
 *Note: Dates and milestones are placeholders. Update them according to your project's schedule.*
