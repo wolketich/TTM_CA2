@@ -1,17 +1,17 @@
 # To-Do List for First Checkpoint (Submission Date: 22nd of October 2023)
 
 ## Create a Company
-- [ ] **Name, Branding & Logo**
-  - Define the name of the company.
-  - Design a logo.
-  - Decide on any branding objects (e.g., slogan).
+- [X] **Name, Branding & Logo**
+  - Define the name of the company. // Craft Code
+  - Design a logo. // Located in Logo Folder
+  - Decide on any branding objects (e.g., slogan). // Code, Craft, Develope Beauty
   
-- [ ] **Company Description**
-  - Specify the field (IT Related).
-  - Define the main purpose of the company.
+- [X] **Company Description**
+  - Specify the field (IT Related). // Web Developement
+  - Define the main purpose of the company. // Customized Web Solutions: Specialize in offering tailor-made web solutions for businesses, understanding the unique needs of each client, and crafting a website specifically for them.
   
-- [ ] **Company Culture**
-  - Describe the culture of the company.
+- [X] **Company Culture**
+  - Describe the culture of the company. // Attached Word Documents
   
 - [ ] **Company Structure**
   - Define the manager of the company.
